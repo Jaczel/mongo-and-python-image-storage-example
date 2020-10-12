@@ -1,5 +1,10 @@
 # Mongo and Python Image Example
 
+## Requriements
+
+- Python 3
+- MongoDB
+
 ## Setup
 
 ```
